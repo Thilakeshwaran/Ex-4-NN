@@ -1,4 +1,4 @@
-<H3>Name: THILAKESWARAN kp</H3>
+<H3>Name: THILAKESWARAN KP</H3>
 <H3>Register No: 212223230232 </H3>
 <H3>EX. NO.4</H3>
 <H3>DATE:</H3>
